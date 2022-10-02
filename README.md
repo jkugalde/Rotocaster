@@ -4,4 +4,4 @@ I made a rotocaster using aluminium profiles, a car window motor, an Arduino and
 
 The parts are [HERE](https://grabcad.com/library/rotocasting-machine-1), there is also a video.
 
-<img src="/imgs/iso.png" width="350">
+<img src="/img/iso.png" width="350">

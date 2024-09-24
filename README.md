@@ -2,7 +2,7 @@
 
 I made a rotocaster using aluminium profiles, a car window motor, an Arduino and some other minor parts. It works really well, BUT, it has no heating elements, so it is not suitable for thermoplastics. 
 
-<img src="/img/iso.png" width="350">
+<img src="/img/isorot.png" width="350">
 
 The parts are [HERE](https://grabcad.com/library/rotocasting-machine-1) and in the parts folder in this repo, there is also a video of a previous version.
 
